@@ -37,7 +37,7 @@ for question in questions:
     question_num += 1
     
 print("--------------------")
-print("      RESULT          ")
+print("      RESULT        ")
 print("--------------------")
 
 print("answers: ", end="")
